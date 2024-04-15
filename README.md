@@ -33,5 +33,3 @@ Check out the [demo video on YouTube](https://www.youtube.com/watch?v=7nNj2RPzQz
 ## Credits
 - Developed with Love2D (Lua) as part of the CS50 Introduction to Game Development course
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
